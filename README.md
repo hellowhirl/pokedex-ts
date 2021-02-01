@@ -1,4 +1,8 @@
-#### Pokemon Search Index (pokedex) built with data from PokeAPI
+### Pokemon Search Index (pokedex) built with data from PokeAPI
+
+Search from the originial 151 Pokemon
+
+<img src="images/pokemon_search.png" width="500">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
